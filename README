@@ -15,7 +15,7 @@ keeping color themes).
 
 [ vundle installation ]
 If you already have vundle, simply add the below line to your .vimrc:
-"Bundle 'git@bitbucket.org:kisom/eink.vim.git'"
+"Bundle 'git@github.com:philips/eink.vim.git'"
 
 [ license ]
 eink.vim is released under the ISC license.
